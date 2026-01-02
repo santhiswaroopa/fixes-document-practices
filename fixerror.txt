@@ -1,0 +1,3 @@
+"#Error fixing"
+"1.Use appropriate syntax."
+"2.Check variable initialization."
