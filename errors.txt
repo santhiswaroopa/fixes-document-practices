@@ -1,0 +1,4 @@
+"steps for finding errors:"
+"1. open document and run the code"
+"1. Identify the errors"
+"3. Note down the causes and fix them"
