@@ -2,3 +2,5 @@
 "1. open document and run the code"
 "1. Identify the errors"
 "3. Note down the causes and fix them"
+"4. Check for Syntax Errors"
+"5. Review Variable Names and Assignments "
