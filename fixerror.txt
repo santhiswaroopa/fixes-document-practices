@@ -1,3 +1,5 @@
 "#Error fixing"
 "1.Use appropriate syntax."
 "2.Check variable initialization."
+"3.Check Your Logic and Algorithms."
+"4.Test with Different Input Scenarios."
